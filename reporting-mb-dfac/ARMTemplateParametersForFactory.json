@@ -13,6 +13,9 @@
 		},
 		"ls_adls_reportingdl_properties_typeProperties_url": {
 			"value": "https://reportingdatalakeadf.dfs.core.windows.net/"
+		},
+		"tr_ingest_population_data_properties_typeProperties_scope": {
+			"value": "/subscriptions/99f3e851-814f-4f14-bc3d-0c1fd3894fdd/resourceGroups/report-adf/providers/Microsoft.Storage/storageAccounts/reportingadf"
 		}
 	}
 }
