@@ -1,0 +1,9 @@
+{
+	"name": "reporting-mb-dfac",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85cb593e-c309-48a6-9edc-3bdb344384a5",
+		"tenantId": "48b49570-9efa-406e-8d69-057650c6e600"
+	}
+}
